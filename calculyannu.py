@@ -1,0 +1,8 @@
+print("Notre loyer coute", 926)
+print("Si notre loyer coute 926 et que je gagne 3000 il me reste", 3000 - 926)
+print("Cela fait beaucoup d'argent")
+print("Mais du coup est ce que 2074 fait plus que 3000?", 2074 > 3000)
+print("ah bah non je suis bête")
+print("Biensur que 2074 est moins que 3000", 2074 <= 3000)
+print("Ouf pendant un moment je croyais qu'ils nous restait que", 2074 / 3000)
+print("Mais cela s'avère", 5 < 1)
